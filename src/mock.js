@@ -117,8 +117,8 @@ export const companyInfo = {
 
 export const promotion = {
   title: "Limited Time Offer",
-  description: "20% Off Tax Preparation Until March 15th",
+  description: "20% Off Tax Preparation Until March 31st",
   details: "Book your free consultation now and save 20% on all personal and small business tax preparation services. Don't miss out on maximizing your tax refund this season!",
   cta: "Claim Your Discount",
-  expiry: "March 15, 2026"
+  expiry: "March 31, 2026"
 };
