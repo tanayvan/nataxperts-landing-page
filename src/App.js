@@ -15,7 +15,7 @@ function App() {
     <div className="App">
       <Header />
       <Hero />
-      <PromotionBanner />
+      {/* <PromotionBanner /> */}
       <Services />
       <Testimonials />
       <FAQ />
